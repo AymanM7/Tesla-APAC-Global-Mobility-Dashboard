@@ -26,4 +26,7 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 
 ## Dashboard
 
+![Screenshot 2025-05-19 163528](https://github.com/user-attachments/assets/f4fe57ec-d519-47a3-89e6-1830a54ec001)
+
+
 
