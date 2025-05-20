@@ -28,7 +28,7 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 
 ![Screenshot 2025-05-19 163528](https://github.com/user-attachments/assets/f4fe57ec-d519-47a3-89e6-1830a54ec001)
 
-- Link to View Complete Tableau Dashboard  : <a href="https://public.tableau.com/app/profile/ayman.mohammad/viz/TESLAAPACGlobalMobilityIntelligenceDashboard/TeslaAPACGlobalMobilityIntelligenceDashboard" target="_blank">View Entire Dashboard</a>
+- Link to View Complete Tableau Dashboard  : <a href="https://public.tableau.com/app/profile/ayman.mohammad/viz/TESLAAPACGlobalMobilityIntelligenceDashboard/TeslaAPACGlobalMobilityIntelligenceDashboard" target="_blank">View Full Dashboard</a>
 
 
 ## Project Insight
