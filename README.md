@@ -28,8 +28,8 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 
 ![Screenshot 2025-05-19 163528](https://github.com/user-attachments/assets/f4fe57ec-d519-47a3-89e6-1830a54ec001)
 
-- Link to View Complete Dashboard on Tableau : <a href="https://public.tableau.com/app/profile/ayman.mohammad/viz/TESLAAPACGlobalMobilityIntelligenceDashboard/TeslaAPACGlobalMobilityIntelligenceDashboard" target="_blank">View Entire Dashboard</a>
->View Entire Dashboard</a>
+- Link to View Complete Dashboard on Tableau : [View Entire Dashboard](https://public.tableau.com/app/profile/ayman.mohammad/viz/TESLAAPACGlobalMobilityIntelligenceDashboard/TeslaAPACGlobalMobilityIntelligenceDashboard) _(opens in new tab)_
+
 
 ## Project Insight
 - Japan has the highest data processing capacity with over 250 data points/day and 30% fleet efficiency.
