@@ -41,16 +41,16 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 
 
 ## 🔧 Challenges Faced
-Building a strategic, data-driven dashboard to inform Tesla’s APAC expansion surfaced several challenges:
+-Building a strategic, data-driven dashboard to inform Tesla’s APAC expansion surfaced several challenges:
 
 📉 Data Complexity and Inconsistency
-The Excel dataset included varied metrics (carbon units, data points, efficiency percentages) across countries, requiring careful normalization and cleanup to ensure comparability.
+-The Excel dataset included varied metrics (carbon units, data points, efficiency percentages) across countries, requiring careful normalization and cleanup to ensure comparability.
 
 🎤 Condensing Complex Insights for Presentation
-Translating a large amount of information and visual analytics into a engaging presentation was a challenge for me. It required simplifying technical terms (like Dojo AI efficiency or DPDP compliance) without losing meaning, while also ensuring the narrative clearly supported Tesla’s strategic goals for non-technical stakeholders and judges.
+-Translating a large amount of information and visual analytics into a engaging presentation was a challenge for me. It required simplifying technical terms (like Dojo AI efficiency or DPDP compliance) without losing meaning, while also ensuring the narrative clearly supported Tesla’s strategic goals for non-technical stakeholders and judges.
 
 🗺️ Visualization Constraints in Tableau
-Mapping country-level insights alongside numeric and categorical data—like fleet efficiency and privacy scores—pushed Tableau’s formatting limitations. Custom tooltips and layered visual types had to be configured manually for clarity.
+-Mapping country-level insights alongside numeric and categorical data—like fleet efficiency and privacy scores—pushed Tableau’s formatting limitations. Custom tooltips and layered visual types had to be configured manually for clarity.
 
 
 
