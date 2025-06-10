@@ -39,6 +39,21 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 - Only 3 APAC countries (as shown on the map) fully meet Tesla’s Privacy by Design (DPDP) compliance standards, potentially limiting expansion in non-compliant regions.
 - No clear inverse relationship exists between data processing and carbon footprint, indicating AI optimization is not yet reducing emissions in proportion to data efficiency.
 
+
+🔧 Challenges Faced
+Building a strategic, data-driven dashboard to inform Tesla’s APAC expansion surfaced several challenges:
+
+📉 Data Complexity and Inconsistency
+The Excel dataset included varied metrics (carbon units, data points, efficiency percentages) across countries, requiring careful normalization and cleanup to ensure comparability.
+
+🎤 Condensing Complex Insights for Presentation
+Translating a large amount of information and visual analytics into a engaging presentation was a challenge for me. It required simplifying technical terms (like Dojo AI efficiency or DPDP compliance) without losing meaning, while also ensuring the narrative clearly supported Tesla’s strategic goals for non-technical stakeholders and judges.
+
+🗺️ Visualization Constraints in Tableau
+Mapping country-level insights alongside numeric and categorical data—like fleet efficiency and privacy scores—pushed Tableau’s formatting limitations. Custom tooltips and layered visual types had to be configured manually for clarity.
+
+
+
 ## Final Conclusion:
 This dashboard serves as a strategic tool for Tesla to evaluate and guide its sustainable expansion across APAC. By combining scalable KPIs with market and compliance data, it helps visualize where Tesla should invest in mobility infrastructure, privacy systems, and Dojo AI optimization. For the future, the dashboard can be enhanced with real-time data feeds, user-interaction filters, and predictive modeling to support ongoing strategic decisions as Tesla further evolves globally.
 
