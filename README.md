@@ -52,6 +52,10 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 🗺️ Visualization Constraints in Tableau
 -Mapping country-level insights alongside numeric and categorical data—like fleet efficiency and privacy scores—pushed Tableau’s formatting limitations. Custom tooltips and layered visual types had to be configured manually for clarity.
 
+## Acess the Project Presentation 
+## 🎞️ [View the BudgetBuddy Project Presentation (Canva)]https://www.canva.com/design/DAGkFRxcdGQ/T3nK3soeBh5SRfuxjQgcuA/edit?utm_content=DAGkFRxcdGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 
 
 ## Final Conclusion:
