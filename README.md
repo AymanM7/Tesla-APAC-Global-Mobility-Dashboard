@@ -40,7 +40,7 @@ Tesla wants to address global mobility challenges by expanding ethically and eff
 - No clear inverse relationship exists between data processing and carbon footprint, indicating AI optimization is not yet reducing emissions in proportion to data efficiency.
 
 
-🔧 Challenges Faced
+## 🔧 Challenges Faced
 Building a strategic, data-driven dashboard to inform Tesla’s APAC expansion surfaced several challenges:
 
 📉 Data Complexity and Inconsistency
